@@ -13,6 +13,7 @@
 <b>Example.scala:</b>        Different type of list in scala
 <b>For.scala:</b>            Example of for loop
 <b>Fun.scala:</b>            Performing reduce, zipwithindex, filter functions in scala
+<b>Hash.scala:</b>           Using hashmap function of scala
 <b>Hello.scala:</b>          Basic program of scala 
 <b>If.scala:</b>             Use of if statement in scala 
 <b>List2.scala:</b>          Access the variables of list with their index value
